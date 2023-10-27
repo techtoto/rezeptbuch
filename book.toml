@@ -1,0 +1,6 @@
+[book]
+authors = ["techtoto"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Tobis Rezeptbuch"
