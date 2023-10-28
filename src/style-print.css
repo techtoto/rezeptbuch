@@ -1,0 +1,5 @@
+@media print {
+    .content {
+        font-size: 10pt;
+    }
+}
