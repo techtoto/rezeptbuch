@@ -13,13 +13,11 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Setup mdBook
-        uses: peaceiris/actions-mdbook@v1
-        with:
-          mdbook-version: 'latest'
+      - uses: DeterminateSystems/nix-installer-action@v6
+      - uses: DeterminateSystems/magic-nix-cache-action@v0.1.1
 
       - name: Build
-        run: mdbook build
+        run: nix develop --command mdbook build
 
       - name: Upload GitHub Pages artifact
         uses: actions/upload-pages-artifact@v1

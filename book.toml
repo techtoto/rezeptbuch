@@ -4,3 +4,23 @@ language = "en"
 multilingual = false
 src = "src"
 title = "Tobis Rezeptbuch"
+
+[output.html]
+[output.pdf]
+## Set for auto-retrying if failed to generate PDF.
+# trying-times = 1
+## This backend only support latest Chromium based browsers, not Safari and Firefox currently.
+## If needed, please specify the full path.
+## If you specify the wrong binary, chances are that there will be a timeout error.
+# browser-binary-path = ""
+## Assign the static hosting site url so that relative links outside the book can be fixed.
+# static_site_url = "https://rust-lang.github.io/mdBook"
+## Check Chrome Devtools Protocol Docs for the explanation of the following params:
+## https://chromedevtools.github.io/devtools-protocol/tot/Page/#method-printToPDF
+landscape = false
+display-header-footer = true
+print-background = true
+scale = 0.7
+header-template = "<div style='display:flex;justify-content:center;width:100%;'><h1 style='font-size:30em' class='title'></h1></div>"
+footer-template = "<div style='display:flex;justify-content:center;width:100%;'><p style='font-size:10em;'><span class='pageNumber'></span> / <span class='totalPages'></span></p></div>"
+generateTaggedPDF = true
