@@ -22,7 +22,13 @@ jobs:
       - name: Upload GitHub Pages artifact
         uses: actions/upload-pages-artifact@v1
         with:
-          path: book
+          path: book/html
+
+      - name: Upload PDF
+        uses: actions/upload-artifact@v3
+        with:
+          name: pdf
+          path: book/pdf/output.pdf
 
       - name: Deploy artifact
         uses: actions/deploy-pages@v1
