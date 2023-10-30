@@ -2,7 +2,7 @@
 
 ---
 
-# Zutaten
+## Zutaten
 
 - 500 ml Milch
 - 40 g Zucker
@@ -11,7 +11,7 @@
 
 ---
 
-# Zubereitung
+## Zubereitung
 
 1. Milch mit Zucker und Vanillezucker aufkochen. Dabei aufpassen, dass die Milch nicht anbrennt.
 
