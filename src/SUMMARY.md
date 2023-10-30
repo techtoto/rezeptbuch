@@ -1,6 +1,5 @@
-[Vorwort](./Vorwort.md)
+[Vorwort](./README.md)
 
-# Hauptgerichte
-
-- [Spaghetti mit Kirschtomaten und Feta](./Spaghetti%20mit%20Kirschtomaten%20und%20Feta.md)
-- [Nudelsalat](./Nudelsalat.md)
+- [Hauptgerichte](./Hauptgerichte/README.md)
+    - [Spaghetti mit Kirschtomaten und Feta](./Hauptgerichte/Spaghetti%20mit%20Kirschtomaten%20und%20Feta.md)
+    - [Nudelsalat](./Hauptgerichte/Nudelsalat.md)
