@@ -8,6 +8,7 @@ title = "Tobis Rezeptbuch"
 [output.html]
 additional-css = ["./src/style-print.css"]
 [output.pdf]
+optional = true
 ## Set for auto-retrying if failed to generate PDF.
 # trying-times = 1
 ## This backend only support latest Chromium based browsers, not Safari and Firefox currently.
