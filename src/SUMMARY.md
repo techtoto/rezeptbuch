@@ -8,6 +8,13 @@
 - [Hauptgerichte süß](./Hauptgerichte%20süß/README.md)
     - [Grießbrei](./Hauptgerichte%20süß/Grießbrei.md)
 
+- [Kuchen](./Kuchen/README.md)
+    - [Zitronenkuchen](./Kuchen/Zitronenkuchen.md)
+    - [Käsekuchen](./Kuchen/Käsekuchen.md)
+    - [Apfelkuchen Elsässer Art](./Kuchen/Apfelkuchen%20Elsässer%20Art.md)
+    - [Waffeln](./Kuchen/Waffeln.md)
+    - [After-Eight-Torte](./Kuchen/After-Eight-Torte.md)
+
 - [Weihnachtsplätzchen](./Weihnachtsplätzchen/README.md)
     - [Schneeflöckchen](./Weihnachtsplätzchen/Schneeflöckchen.md)
     - [Walnuss-Spritzgebäck](./Weihnachtsplätzchen/Walnuss-Spritzgebäck.md)
