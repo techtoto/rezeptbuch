@@ -23,3 +23,6 @@
     - [Vanillekipferl](./Weihnachtsplätzchen/Vanillekipferl.md)
     - [Linzer Plätzchen](./Weihnachtsplätzchen/Linzer%20Plätzchen.md)
     - [Engelsaugen](./Weihnachtsplätzchen/Engelsaugen.md)
+
+- [Brot und Brötchen](./Brot_Brötchen/README.md)
+    - [Brötchen von Reddit](./Brot_Brötchen/Brötchen_Reddit.md)
