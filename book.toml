@@ -6,7 +6,7 @@ src = "src"
 title = "Tobis Rezeptbuch"
 
 [output.html]
-additional-css = ["./src/style-print.css"]
+additional-css = ["./src/css-fixes.css"]
 [output.pdf]
 optional = true
 ## Set for auto-retrying if failed to generate PDF.
