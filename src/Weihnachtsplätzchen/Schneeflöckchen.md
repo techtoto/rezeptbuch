@@ -2,6 +2,8 @@
 
 Original von meiner Oma
 
+Für ca. 60 Stück (2,5 Bleche)
+
 ---
 
 ## Zutaten
@@ -18,8 +20,10 @@ Original von meiner Oma
 
 1. Das Fett mit dem gesiebten Puderzucker und dem aus der Schote geschabten Vanillemark recht schaumig rühren.
 
-2. Mehl und Mondamin mischen, sieben und löffelweise zu der Schaummasse rühren.
+2. Mehl und Mondamin mischen, sieben und löffelweise mit den Schneebesen des Rührgeräts zu der Schaummasse rühren.
 
-3. Von diesem Teig kleine Kugeln formen, auf ein Backblech setzen, mit einer bemehlten Gabel breitdrücken und backen (200 °C, 10min).
+3. Von diesem Teig kleine Kugeln formen (ca. 2,5 cm groß), mit ausreichend Abstand auf ein Backblech setzen und mit einer bemehlten Gabel leicht breitdrücken. Auf ein Blech passen 5x5 Plätzchen.
 
-4. Die Schneeflöckchen vorsichtig vom Blech lösen und vor dem Gebrauch 3-4 Tage in einer gut schließenden Dose stehen lassen.
+4. Bei 200 °C 10min backen. Die Schneeflöcken sollten nur leicht braun werden.
+
+5. Die Schneeflöckchen vorsichtig vom Blech lösen und vor dem Gebrauch 3-4 Tage in einer gut schließenden Dose stehen lassen.
