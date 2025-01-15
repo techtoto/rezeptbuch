@@ -11,6 +11,7 @@
     - [Schwäbische Linsen](./Hauptgerichte/Schwäbische%20Linsen.md)
     - [Zitronenrisotto mit Garnelen](./Hauptgerichte/Zitronenrisotto%20mit%20Garnelen.md)
     - [Couscous-Auflauf](./Hauptgerichte/Couscous-Auflauf.md)
+    - [Süßkartoffel-Hähnchen-Auflauf](./Hauptgerichte/Süßkartoffel-Hähnchen-Auflauf.md)
 
 - [Hauptgerichte süß](./Hauptgerichte%20süß/README.md)
     - [Grießbrei](./Hauptgerichte%20süß/Grießbrei.md)
