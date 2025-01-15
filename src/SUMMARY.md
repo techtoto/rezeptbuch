@@ -2,6 +2,7 @@
 
 - [Suppen](./Suppen/README.md)
     - [Tomatensuppe](./Suppen/Tomatensuppe.md)
+
 - [Hauptgerichte](./Hauptgerichte/README.md)
     - [Spaghetti mit Kirschtomaten und Feta](./Hauptgerichte/Spaghetti%20mit%20Kirschtomaten%20und%20Feta.md)
     - [Nudelsalat](./Hauptgerichte/Nudelsalat.md)
@@ -9,6 +10,7 @@
     - [Spätzle](./Hauptgerichte/Spätzle.md)
     - [Schwäbische Linsen](./Hauptgerichte/Schwäbische%20Linsen.md)
     - [Zitronenrisotto mit Garnelen](./Hauptgerichte/Zitronenrisotto%20mit%20Garnelen.md)
+    - [Couscous-Auflauf](./Hauptgerichte/Couscous-Auflauf.md)
 
 - [Hauptgerichte süß](./Hauptgerichte%20süß/README.md)
     - [Grießbrei](./Hauptgerichte%20süß/Grießbrei.md)
