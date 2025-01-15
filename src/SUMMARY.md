@@ -8,6 +8,7 @@
     - [Pfannkuchen](./Hauptgerichte/Pfannkuchen.md)
     - [Spätzle](./Hauptgerichte/Spätzle.md)
     - [Schwäbische Linsen](./Hauptgerichte/Schwäbische%20Linsen.md)
+    - [Zitronenrisotto mit Garnelen](./Hauptgerichte/Zitronenrisotto%20mit%20Garnelen.md)
 
 - [Hauptgerichte süß](./Hauptgerichte%20süß/README.md)
     - [Grießbrei](./Hauptgerichte%20süß/Grießbrei.md)
