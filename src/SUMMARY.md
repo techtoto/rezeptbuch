@@ -22,6 +22,7 @@
     - [Apfelkuchen Elsässer Art](./Kuchen/Apfelkuchen%20Elsässer%20Art.md)
     - [Waffeln](./Kuchen/Waffeln.md)
     - [After-Eight-Torte](./Kuchen/After-Eight-Torte.md)
+    - [Rhabarber-Steuselkuchen vom Blech](./Kuchen/Rhabarber-Streuselkuchen%20vom%20Blech.md)
 
 - [Kekse](./Kekse/README.md)
     - [American Cookies Grundrezept](./Kekse/American%20Cookies%20Grundrezept.md)
