@@ -23,6 +23,7 @@
     - [Waffeln](./Kuchen/Waffeln.md)
     - [After-Eight-Torte](./Kuchen/After-Eight-Torte.md)
     - [Rhabarber-Steuselkuchen vom Blech](./Kuchen/Rhabarber-Streuselkuchen%20vom%20Blech.md)
+    - [Gewürzkuchen](./Kuchen/Gewürzkuchen.md)
 
 - [Kekse](./Kekse/README.md)
     - [American Cookies Grundrezept](./Kekse/American%20Cookies%20Grundrezept.md)
