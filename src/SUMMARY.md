@@ -39,6 +39,7 @@
 
 - [Brot und Brötchen](./Brot_Brötchen/README.md)
     - [Brötchen von Reddit](./Brot_Brötchen/Brötchen_Reddit.md)
+    - [Rosinenbrötchen](./Brot_Brötchen/Rosinenbrötchen.md)
 
 - [Verschiedenes](./Verschiedenes/README.md)
     - [Rhabarberkompott](./Verschiedenes/Rhabarberkompott.md)
